@@ -5,5 +5,5 @@
 1. `pip install -r requirements.txt`
 1. `cp .env.sample .env`
 1. `.env` の `TRELLO_API_KEY` と `TRELLO_TOKEN` を設定する
-1. `python trello2md.md -t [trello board id]`
+1. `python trello2md.py -t [trello board id]`
 1. クリップボードのコピーされている
